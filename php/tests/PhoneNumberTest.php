@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Tests;
+
 use App\Service\PhoneNumberHelper;
 use App\Service\Validation\PhoneNumber\PhoneConstraintValidator;
 use PHPUnit\Framework\Attributes\DataProvider;
